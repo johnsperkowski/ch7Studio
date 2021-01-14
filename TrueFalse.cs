@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Question
+namespace ch7Studio
 {
     public class TrueFalse : Question
     {

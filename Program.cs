@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Question
+namespace ch7Studio
 {
     class Program
     {

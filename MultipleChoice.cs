@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
-namespace Question
+namespace ch7Studio
 {
     public class MultipleChoice : Question
     {
